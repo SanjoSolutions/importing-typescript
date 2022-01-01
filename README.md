@@ -27,4 +27,4 @@ console.log(powerSet([1, 2]))
 
 [webpack - TypeScript](https://webpack.js.org/guides/typescript/)
 
-[client/]
+[client/]()
